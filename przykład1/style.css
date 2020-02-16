@@ -1,0 +1,21 @@
+#kontener {
+    margin:0 auto;
+    width: 1000px;
+}
+
+#plotno{
+    border: 1px solid #333;
+}
+
+.control_button {
+    display: inline-block;
+    font-size: 1.25em;
+    padding: 10px;
+    background-color: #348723;
+    color: #fff;
+}
+
+.control_button:hover{
+    background-color: #348799;
+    cursor: pointer;
+}
